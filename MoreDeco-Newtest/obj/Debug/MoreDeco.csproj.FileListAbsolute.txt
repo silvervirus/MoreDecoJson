@@ -1,0 +1,6 @@
+D:\all my projects\updated mods project\MoreDeco-Newtest\obj\Debug\MoreDeco.csproj.AssemblyReference.cache
+D:\all my projects\updated mods project\MoreDeco-Newtest\obj\Debug\MoreDeco.GeneratedMSBuildEditorConfig.editorconfig
+D:\all my projects\updated mods project\MoreDeco-Newtest\obj\Debug\MyPluginInfo.cs
+D:\all my projects\updated mods project\MoreDeco-Newtest\obj\Debug\MoreDeco.csproj.CoreCompileInputs.cache
+D:\all my projects\updated mods project\MoreDeco-Newtest\bin\Debug\MoreDecoJson.dll
+D:\all my projects\updated mods project\MoreDeco-Newtest\obj\Debug\MoreDecoJson.dll
